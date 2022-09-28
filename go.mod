@@ -1,4 +1,4 @@
-module github.com/ddg00/terbilang00
+module github.com/ddg00/terbilang31689
 
 go 1.18
 
